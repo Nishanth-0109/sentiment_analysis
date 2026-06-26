@@ -1,7 +1,4 @@
-"""
-Sentiment Analysis Mini Project
-Install: pip install textblob
-"""
+
 
 from textblob import TextBlob
 
